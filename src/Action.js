@@ -44,57 +44,57 @@ export const IMAJES = [
 export const BACKGROUNT = [
   {
     id: 1,
-    img: "https://3dmodels.ru/uploads/texture_preview/607c8b9348c70.jpg",
+    img: "https://pvtest.ru/wp-content/uploads/7/1/d/71d834105cd03573af32c141272908eb.jpeg",
     name: "Кирпич красный",
   },
   {
     id: 2,
-    img: "https://3dmodels.ru/uploads/texture_preview/640x480/602947af55041.jpg",
+    img: "https://foni.club/uploads/posts/2022-02/thumbs/1645734387_34-foni-club-p-besshovnaya-tekstura-kirpichnaya-stena-38.jpg",
     name: "Кирпич белый",
   },
   {
     id: 3,
-    img: "https://3dmodels.ru/uploads/texture_preview/640x480/5a65a885bd6e9.jpg",
+    img: "https://sun9-8.userapi.com/impf/c841320/v841320619/3bf59/t3ZufTZcu1Q.jpg?size=520x0&quality=95&sign=a5523c166760162c92f5e193b33dc362",
     name: "Обои BoborasTapeter",
   },
   {
     id: 4,
-    img: "https://3dmodels.ru/uploads/texture_preview/5a66ff5fc322a.jpg",
-    name: "Обои BoborasTapeter",
+    img: "https://pbs.twimg.com/media/DjS3XhnXsAIGWDs.jpg:large",
+    name: "Обои BoborasTapeter 2",
   },
   {
     id: 5,
-    img: "https://3dmodels.ru/uploads/texture_preview/5a670014cd946.jpg",
-    name: "Обои BoborasTapeter",
+    img: "https://flomaster.club/uploads/posts/2022-12/thumbs/1672243881_flomaster-club-p-oboi-s-melkim-uzorom-risunki-pinterest-27.png",
+    name: "Обои BoborasTapeter 3",
   },
   {
     id: 6,
-    img: "https://3dmodels.ru/uploads/texture_preview/5e935f91759da.jpg",
+    img: "https://abrakadabra.fun/uploads/posts/2022-03/thumbs/1646457037_16-abrakadabra-fun-p-belii-fakturnii-fon-23.jpg",
     name: "Штукатурка",
   },
   {
     id: 7,
-    img: "https://3dmodels.ru/uploads/texture_preview/5c11171ce7f90.jpg",
+    img: "https://catherineasquithgallery.com/uploads/posts/2023-01/thumbs/1674256235_catherineasquithgallery-com-p-serii-strukturnii-fon-foto-42.jpg",
     name: "Бетон",
   },
   {
     id: 8,
-    img: "https://3dmodels.ru/uploads/texture_preview/5bae3d666c9dc.jpg",
+    img: "https://celes.club/uploads/posts/2022-09/thumbs/1662231138_54-celes-club-p-dikii-kamen-vkontakte-57.jpg",
     name: "Дикий камень",
   },
   {
     id: 9,
-    img: "https://3dmodels.ru/uploads/texture_preview/5b68a4709e3a0.jpg",
-    name: "Искусственный камень",
-  },
-  {
-    id: 10,
-    img: "https://3dmodels.ru/uploads/texture_preview/5bacec863363a.jpg",
+    img: "https://phonoteka.org/uploads/posts/2022-09/1663152588_42-phonoteka-org-p-oblitsovochnii-kamen-tekstura-besshovnaya-53.jpg",
     name: "Дикий камень 2",
   },
   {
+    id: 10,
+    img: "https://bricks-stones.ru/image/cache/catalog/foto/newtechnologia/new-tech-kamen/kataloniya/1303-650x850.jpg",
+    name: "Дикий камень 3",
+  },
+  {
     id: 11,
-    img: "https://3dmodels.ru/uploads/texture_preview/5af02d8847559.jpg",
+    img: "https://bricks-stones.ru/image/cache/catalog/foto/newtechnologia/new-tech-kamen/vizantiya/1204-650x850.jpg",
     name: "Наружная плитка",
   },
 ];
